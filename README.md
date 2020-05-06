@@ -4,3 +4,4 @@
 	* [iteratordemo](iteratordemo)
 	* [singleton](singleton)
 	* [facade](facade)
+	* [decorator](decorator)
