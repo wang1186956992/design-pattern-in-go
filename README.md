@@ -4,6 +4,7 @@
 	* [singleton](singleton)
 	* [facade](facade)
 	* [decorator](decorator)
+	* [decorator2](decorator2)
 	* [command](command)
 	* [chain-of-responsibility](chain-of-responsibility)
 	* [chain-of-responsibility2](chain-of-responsibility2)
