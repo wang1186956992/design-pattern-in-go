@@ -8,3 +8,4 @@
 	* [command](command)
 	* [chain-of-responsibility](chain-of-responsibility)
 	* [chain-of-responsibility2](chain-of-responsibility2)
+	* [bridge](bridge)
