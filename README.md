@@ -5,3 +5,4 @@
 	* [singleton](singleton)
 	* [facade](facade)
 	* [decorator](decorator)
+	* [command](command)
