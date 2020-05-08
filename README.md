@@ -13,3 +13,4 @@
 	* [factory-method](factory-method)
 	* [abs-factory](abs-factory)
 	* [prototype](prototype)
+	* [builder](builder)
