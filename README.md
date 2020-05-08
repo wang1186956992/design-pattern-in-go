@@ -12,3 +12,4 @@
 	* [simple-factory](simple-factory)
 	* [factory-method](factory-method)
 	* [abs-factory](abs-factory)
+	* [prototype](prototype)
