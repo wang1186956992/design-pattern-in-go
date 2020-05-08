@@ -14,3 +14,4 @@
 	* [abs-factory](abs-factory)
 	* [prototype](prototype)
 	* [builder](builder)
+	* [adapter](adapter)
