@@ -10,3 +10,4 @@
 	* [chain-of-responsibility2](chain-of-responsibility2)
 	* [bridge](bridge)
 	* [simple-factory](simple-factory)
+	* [factory-method](factory-method)
