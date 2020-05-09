@@ -16,3 +16,4 @@
 	* [builder](builder)
 	* [adapter](adapter)
 	* [obj-adapter](obj-adapter)
+	* [interface-adapter](interface-adapter)
