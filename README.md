@@ -15,3 +15,4 @@
 	* [prototype](prototype)
 	* [builder](builder)
 	* [adapter](adapter)
+	* [obj-adapter](obj-adapter)
