@@ -18,3 +18,4 @@
 	* [adapter](adapter)
 	* [obj-adapter](obj-adapter)
 	* [interface-adapter](interface-adapter)
+	* [observer](observer)
