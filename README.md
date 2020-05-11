@@ -16,6 +16,7 @@
 	* [abs-factory](abs-factory)
 	* [prototype](prototype)
 	* [builder](builder)
+	* [builder1](builder1)
 	* [adapter](adapter)
 	* [obj-adapter](obj-adapter)
 	* [interface-adapter](interface-adapter)
